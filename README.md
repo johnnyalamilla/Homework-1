@@ -4,8 +4,6 @@
 
 * Coinbase
 
-![coinbase](Screen Shot 2022-12-16 at 9.38.33 AM.png)
-
 * When was the company incorporated? 
 
 Coinbase was initially incorporated in May 2012 as Coinbase, Inc., a Delaware corporation. In January 2014, Coinbase Global, Inc. was incorporated as a Delaware corporation to act as the holding company of Coinbase, Inc. and our other subsidiaries. In April 2014, Coinbase completed a corporate reorganization whereby Coinbase, Inc. became a wholly-owned subsidiary of Coinbase Global, Inc. Coinbase Global, Inc.’s principal assets are the equity interests of Coinbase, Inc. In addition to Coinbase, Inc., Coinbase Global, Inc. is the parent company of a number of other operating subsidiaries, including (i) CB Payments, Ltd, a private limited company incorporated under the laws of the United Kingdom, which provides fiat currency payment processing services to their international customers and (ii) Coinbase Custody Trust Company, LLC, a New York limited liability trust company, which is authorized to exercise fiduciary powers under New York state banking law and holds certain crypto assets in trust for the benefit of their institutional customers.
